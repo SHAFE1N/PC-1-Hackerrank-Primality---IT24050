@@ -13,4 +13,4 @@ Participated in the HackerRank programming contest
 
 ## Leaderboard Screenshot
 
-![HackerRank Contest Leaderboard](leaderboard.png)
+![HackerRank Leaderboard](finalLeaderBoard.png)
